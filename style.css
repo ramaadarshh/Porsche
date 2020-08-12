@@ -823,3 +823,152 @@ body {
 background-color: black;
 
 }
+.image4 {
+  color: white;
+  width: 100%;
+  background-image: url(https://www.wsupercars.com/wallpapers/Porsche/2018-Porsche-Panamera-Turbo-S-E-Hybrid-002-1080.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.fnc-slide-btn__car {
+  margin-left: 197px;
+}
+@media only screen and (max-width: 600px) {
+  .fnc-slide__heading-line {
+    margin-left: -85px;
+    font-size: 70px;
+  }
+  .fnc-slide-btn__car {
+    margin-left: 67px;
+  }
+  .fnc-slide__action-btn {
+    margin-left: 70px;
+
+  }
+  .example-slider .fnc-slide-4 .fnc-slide__inner,
+.example-slider .fnc-slide-4 .fnc-slide__mask-inner {
+  background-attachment: fixed;
+  background-image: url("https://1.bp.blogspot.com/-cPouOaIuzvQ/TnV7t3N2vkI/AAAAAAAAKLY/U2-f6ifcc3I/s1600/Wallpapers%2BPorsche%2BPanamera%2BS%2BHybrid-731415.jpg");
+}
+  .example-slider .fnc-slide-3 .fnc-slide__inner,
+.example-slider .fnc-slide-3 .fnc-slide__mask-inner {
+  background-attachment: fixed;
+  background-image: url("https://wallpaperaccess.com/full/1217096.jpg");
+}
+  .example-slider .fnc-slide-2 .fnc-slide__inner,
+.example-slider .fnc-slide-2 .fnc-slide__mask-inner {
+  background-image: url("https://i.pinimg.com/originals/69/fa/29/69fa29e37c63b3364942c5b09e6f11ca.jpg");
+  background-attachment: fixed;
+}
+  .example-slider .fnc-slide-1 .fnc-slide__inner,
+  .example-slider .fnc-slide-1 .fnc-slide__mask-inner {
+    background-image: url(https://r1.ilikewallpaper.net/iphone-wallpapers/download/8230/2011-Black-Porsche-911-Black-Edition-iphone-wallpaper-ilikewallpaper_com.jpg);
+    background-attachment: fixed;
+  }
+  .contact {
+    padding-top: 200px;
+  padding-bottom: 200px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.486), rgba(0, 0, 0, 0.486) ) , url(https://wallpaperaccess.com/full/758414.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  }
+  .image4 {
+    color: white;
+        width: 100%;
+        background-image: url(https://papers.co/wallpaper/papers.co-as70-porsche-panamera-dark-car-art-illustration-34-iphone6-plus-wallpaper.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+
+  }
+  .image3 {
+    color: white;
+        width: 100%;
+        background-image: url(https://s2.best-wallpaper.net/wallpaper/iphone/1607/TechArt-Porsche-Boxster-black-roadster-side-view_iphone_750x1334.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+  }
+  .image2 {
+    color: white;
+        width: 100%;
+        background-image: url(https://cdn.wallpapersafari.com/74/51/nSsLPB.jpeg);
+        background-size: cover;
+        background-attachment: fixed;
+  }
+  .image1 {
+    color: white;
+        width: 100%;
+        background-image: url(https://i.pinimg.com/originals/e7/34/29/e734295d0b2679acb617aa091bccbab4.png);
+        background-size: cover;
+        background-attachment: fixed;
+        
+          
+        
+  }
+  .line1 {
+    border-bottom: 2px solid blue;
+   
+  }
+
+.cols1 {
+ 
+  margin-top: 15px;
+}
+
+}
+@media  (min-width: 601px) and (max-width: 1000px ) {
+  .fnc-slide__heading-line {
+    margin-left: -25px;
+    font-size: 75px;
+  }
+  .fnc-slide-btn__car {
+    margin-left: 143px;
+  }
+  .fnc-slide__action-btn {
+    margin-left: 147px;
+
+  }
+  .contact {
+    padding-top: 200px;
+  padding-bottom: 200px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.486), rgba(0, 0, 0, 0.486) ) , url(https://wallpaperaccess.com/full/758414.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  }
+  .image4 {
+    color: white;
+        width: 100%;
+        background-image: url(https://images.hdqwalls.com/download/2018-porsche-panamera-turbo-s-e-hybrid-image-2932x2932.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+
+  }
+  .image3 {
+    color: white;
+        width: 100%;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0.267), rgba(0, 0, 0, 0.261)) , url(https://goldwallpapers.com/uploads/posts/porsche-ipad-wallpaper/porsche_ipad_wallpaper_008.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+  }
+  .image2 {
+    color: white;
+        width: 100%;
+        background-image: url(https://images.hdqwalls.com/download/porsche-taycan-turbo-sportdesign-8k-mu-2048x2048.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+  }
+  .image1 {
+    color: white;
+        width: 100%;
+        background-image: url(https://www.desktopbackground.org/p/2014/11/16/857000_porsche-cayman-s-iphone-hd-wallpaper-iphone-hd-wallpapers-download_640x960_h.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+  }
+}
+@media only screen and (max-width: 700px) {
+  
+
+.cols1 {
+ 
+  margin-top: 30px;
+}
+}
