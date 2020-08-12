@@ -833,7 +833,7 @@ background-color: black;
 .fnc-slide-btn__car {
   margin-left: 197px;
 }
-@media only screen and (max-width: 600px) {
+@media (min-width: 0px) and (max-width: 600px) {
   .fnc-slide__heading-line {
     margin-left: -85px;
     font-size: 70px;
